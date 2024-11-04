@@ -19,7 +19,7 @@
     "crypto-js": "^4.2.0",
     "firebase": "^10.5.2",
     "framer-motion": "^10.16.15",
-    "next": "^14.2.7",
+    "next": "^14.2.10",
     "papaparse": "^5.4.1",
     "puppeteer": "^22.5.0",
     "react": "^18",
