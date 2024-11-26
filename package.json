@@ -27,7 +27,7 @@
     "react-firebase-hooks": "^5.1.1",
     "react-icons": "^4.11.0",
     "react-oauth": "^0.0.1",
-    "react-router-dom": "^6.18.0",
+    "react-router-dom": "^6.21.0",
     "react-simple-typewriter": "^5.0.1",
     "react-spinners": "^0.13.8",
     "zxcvbn": "^4.4.2"
